@@ -15,6 +15,17 @@ In this portfolio project, I conducted sales analytics for an online store using
 ## **Dataset:**
 The dataset was created using a SQL query to the BigQuery database tables. The dataset included the following fields: order date, session ID, continent, country, device, browser, device model name, operating system, browser language, traffic source information, traffic channel, registered user ID, whether the user confirmed their email, whether the user subscribed to the newsletter, product category, product name, price, short product description. When creating the dataset, the necessary table join types were set. The fact that there are few registered users was also taken into account, but we are interested in all orders and all sessions, even if the user has not registered on the site.
 
+## **List of tasks:**
+1. Connecting to a database.
+2. Create a SQL query.
+3. Description of the received dataset.
+4. Data analysis and visualization.
+5. Sales dynamics analysis.
+6. Data analysis using pivot tables.
+7. Statistical analysis of relationships.
+9. Tableau Public Visualization.
+10. Business Summary.
 
-
+### Portfolio Project - Comprehensive Sales Analytics Using BigQuery and Python
+[Explore Portfolio Project](https://colab.research.google.com/drive/1f9fdnO5RYsNye4ONQM-iZzOZdeDIYd1I#scrollTo=ss0ju80RnRmg)  
 
