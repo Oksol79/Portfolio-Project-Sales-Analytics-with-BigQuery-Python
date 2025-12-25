@@ -4,6 +4,9 @@
 
 In this portfolio project, I conducted sales analytics for an online store using BigQuery and Python. I created a single dataset by merging the orders and sessions tables, which also included data from unregistered users. A detailed selection of join types (JOIN) helped to preserve all relevant data and ensure the completeness of the analytics, which is especially important due to the small number of registered users. The query resulted in an accurate and complete base for further analysis of sales and user behavior. The resulting dataset was used for further analysis and visualization.
 
+## **Tools & Environment:**
+- Google Colab.
+
 ## **Technologies & Libraries:**
  - BigQuery / SQL API (client.query).
  - Python for data analysis.
